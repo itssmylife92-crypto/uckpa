@@ -2,7 +2,7 @@
   "name": "Hyatt Regency Baku — Laundry",
   "short_name": "HRB Laundry",
   "description": "Laundry Tracker — Hyatt Regency Baku",
-  "start_url": "start_url": "/", на "start_url": "./",
+  "start_url": "start_url": "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#CC0000",
